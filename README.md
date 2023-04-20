@@ -1,4 +1,4 @@
-# Projeto Integrado: Aplicativo web de Alugel de utensilios do dia a dia.
+# Projeto Integrado: Aplicativo web de Aluguel de utensilios do dia a dia.
 
 ## pre requisitos :
 <p>
